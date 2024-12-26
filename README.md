@@ -1,6 +1,7 @@
 # Iris Dataset Classification with Multiple Models
 
-This project uses the Iris dataset to classify flowers into three species: Setosa, Versicolor, and Virginica. It demonstrates the use of various machine learning algorithms to train, test, and evaluate their performance.
+This project uses the Iris dataset to classify flowers into three species: Setosa, Versicolor, and Virginica.
+It demonstrates the use of various machine learning algorithms to train, test, and evaluate their performance.
 
 ---
 
